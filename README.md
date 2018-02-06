@@ -35,3 +35,7 @@ Also:
 		
 Create, converge and verify will run sequentially
 
+To login to the virtual machine
+
+		kitchen login
+
